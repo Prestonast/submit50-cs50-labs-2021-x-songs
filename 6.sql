@@ -1,0 +1,1 @@
+Select songs.name From songs Join  artists ON songs.artists_id = artists.id

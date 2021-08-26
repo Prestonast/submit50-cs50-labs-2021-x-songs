@@ -1,0 +1,1 @@
+Select AVG(energy) From songs Where artists_id = (Select id From artists Where name == "Drake")
